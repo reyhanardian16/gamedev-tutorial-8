@@ -21,3 +21,6 @@
 
 - Atur jumlah spawning time pada node spawner untuk mengurangi spawn rate musuh
 - Jumlah tersebut dapat diatur lebih lanjut agar game tidak terlalu mudah maupun sulit
+
+## References
+https://csui-game-development.github.io/tutorials/tutorial-8/
